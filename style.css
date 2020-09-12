@@ -10,7 +10,7 @@ main {
 .board {
     height: 60vh;
     background-color: rebeccapurple;
-    border: 1px solid white;
+    /*border: 1px solid white;*/
 }
 
 .board__row {
@@ -18,14 +18,22 @@ main {
 }
 
 .board__row__cell {
-    width: 20px;
-    height: 20px;
-    border: 1px solid white;
+    width: 10px;
+    height: 10px;
+    /*border: 1px solid white;*/
 }
 
-.board__row__cell.active {
+.board__row__cell.active, .board__row__cell:hover {
     background-color: white;
 }
+/*.board__row__cell.active {*/
+/*    background-color: white;*/
+/*}*/
+
+/*.board__row__cell.active {*/
+/*    background-color: black;*/
+/*    border-color: black;*/
+/*}*/
 
 .btn {
     padding: 10px;

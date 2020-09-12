@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bb10520-01b6-4bef-bd9a-8936add74b32" name="Default Changelist" comment="" />
+    <list default="true" id="6bb10520-01b6-4bef-bd9a-8936add74b32" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,7 +17,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hMmM8RpBQKm8Auxvtn22fQsW42" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -36,11 +42,22 @@
       <option name="presentableId" value="Default" />
       <updated>1599829284608</updated>
       <workItem from="1599829285844" duration="61000" />
-      <workItem from="1599831153838" duration="4363000" />
+      <workItem from="1599831153838" duration="4928000" />
+      <workItem from="1599838347779" duration="6490000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="624" y="235" key="run.anything.popup" timestamp="1599840254380">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="624" y="235" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599840254380" />
+    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1599839404661">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599839404661" />
   </component>
 </project>
